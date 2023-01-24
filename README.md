@@ -65,6 +65,9 @@ Half adder:
 
 RTL:
 ![image](https://user-images.githubusercontent.com/118707090/214297504-66ca63a9-6a37-4c7c-8590-7592e229d610.png)
+truth table:
+![image](https://user-images.githubusercontent.com/118707090/214297882-7e707a72-7112-4dc5-b06e-6a1de135f575.png)
+
 
 
 ### Result:
