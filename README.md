@@ -86,3 +86,4 @@ waveform:
 
 
 ### Result:
+Thus these programs are executed successfully.
