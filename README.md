@@ -70,6 +70,12 @@ truth table:
 waveform:
 ![image](https://user-images.githubusercontent.com/118707090/214298194-22885a9b-fd47-45bb-b09b-d7eda3295616.png)
 
+Full adder:
+
+RTL:
+![image](https://user-images.githubusercontent.com/118707090/214298438-c5790e1e-99f2-49fe-a185-75b0b7af223c.png)
+
+
 
 
 
