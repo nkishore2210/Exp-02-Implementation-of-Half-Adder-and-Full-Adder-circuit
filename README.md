@@ -60,11 +60,11 @@ endmodule
 
 
 ### Output:
-### RTL
 
-### TIMING DIAGRAM
+Half adder:
 
+RTL:
+![image](https://user-images.githubusercontent.com/118707090/214297504-66ca63a9-6a37-4c7c-8590-7592e229d610.png)
 
-### TRUTH TABLE 
 
 ### Result:
