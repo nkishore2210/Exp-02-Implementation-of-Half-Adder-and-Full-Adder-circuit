@@ -74,6 +74,9 @@ Full adder:
 
 RTL:
 ![image](https://user-images.githubusercontent.com/118707090/214298438-c5790e1e-99f2-49fe-a185-75b0b7af223c.png)
+truth table:
+![image](https://user-images.githubusercontent.com/118707090/214298660-9e480e05-912a-4c87-ade7-61aa462d94b1.png)
+
 
 
 
